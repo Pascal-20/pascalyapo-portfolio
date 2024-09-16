@@ -14,11 +14,6 @@ J'ai décidé de créer ce portfolio en utilisant HTML et JavaScript pour plusie
 
 ## Projets Inclus
 
-### [Analyze International Debt Statistics](https://github.com/azdinebahloul/Analyze-International-Debt-Statistics/blob/main/notebook.ipynb):
-
-Analyze international debt data to determine the total debt owed by countries and identify the country with the highest debt ownership.
-Explore the average debt across different debt indicators to gain insights into global debt patterns.
-
 ### [Prédiction du temps de réponse de la brigade des pompiers de londres](https://github.com/Pascal-20/London_Fire_Brigade_Python/blob/main/README.md):
 
 Analyser et estimer le temps d'intervention de la brigade face aux sinistres dans la ville de Londres avec des données allant de 2016 à 2023. Preparer, visualiser et entrainer un modèle de Machine Learning pour nos predictions.
