@@ -1,36 +1,34 @@
-# https://azdinebahloul.github.io/Azdine-Bahloul-Portfolio/ 
+# https://pascal-20.github.io/pascalyapo-portfolio/ 
 
-# My Portfolio
-Welcome to my portfolio! This website showcases the projects I have worked on during my data analysis learning adventure, as well as a personal project that I have undertaken to practice new methods and tools.
+# Mon Portfolio
+Bienvenue sur mon portfolio ! Ce site présente les projets sur lesquels j'ai travaillé tout au long de mon apprentissage en analyse de données, projets que j'ai entrepris pour pratiquer de nouvelles méthodes et utiliser de outils.
 
-# Why HTML & JavaScript?
-I decided to build this portfolio using HTML and JavaScript for several reasons:
+# Pourquoi HTML & JavaScript?
+J'ai décidé de créer ce portfolio en utilisant HTML et JavaScript pour plusieurs raisons :
 
-- **Learning Opportunity** : Building my portfolio in HTML and JavaScript provided me with a valuable learning experience. It allowed me to delve into new programming languages independently and gain hands-on practice. HTML is a fundamental language in web development, and JavaScript enhances the interactivity and functionality of web pages.
+- **Une Opportunité d'Apprentissage** : Construire mon portfolio en HTML et JavaScript m'a offert une expérience d'apprentissage précieuse. Cela m'a permis d'explorer de nouveaux langages de programmation de manière autonome et de m'exercer concrètement. HTML est un langage fondamental dans le développement web, et JavaScript améliore l'interactivité et la fonctionnalité des pages web.
 
-- **Showcasing Projects**: HTML and JavaScript offer a versatile and customizable platform to showcase my projects effectively. By leveraging HTML and JavaScript, I was able to present my work in an organized and visually appealing manner. This allows potential employers or collaborators to easily navigate through my projects and understand their scope and impact.
+- **Présenter Mes Projets**: HTML et JavaScript offrent une plateforme polyvalente et personnalisable pour présenter efficacement mes projets. En tirant parti de ces technologies, j'ai pu organiser et afficher mon travail de manière visuellement attrayante. Cela permet aux employeurs potentiels ou aux collaborateurs de naviguer facilement à travers mes projets et de comprendre leur portée et leur impact.
+- 
+- **Langages Largement Utilisés**: HTML et JavaScript sont largement utilisés dans le développement web. En choisissant ces langages pour mon portfolio, j'ai acquis des compétences qui sont utiles dans divers secteurs et disciplines. Cela ouvre des opportunités de collaboration sur des projets basés sur le web et démontre ma capacité à travailler avec des technologies web couramment utilisées.
 
-- **Widely Used Languages**: HTML and JavaScript are widely used in web development. By choosing HTML and JavaScript for my portfolio, I acquired skills that are valuable across various industries and disciplines. This opens up opportunities to collaborate on web-based projects and demonstrates my ability to work with commonly used web technologies.
-
-## Projects Included
+## Projets Inclus
 
 ### [Analyze International Debt Statistics](https://github.com/azdinebahloul/Analyze-International-Debt-Statistics/blob/main/notebook.ipynb):
 
 Analyze international debt data to determine the total debt owed by countries and identify the country with the highest debt ownership.
 Explore the average debt across different debt indicators to gain insights into global debt patterns.
 
-### [Analyze LinkedIn Data Analyst Job Market](https://github.com/azdinebahloul/LinkedIn-s-Data-Analyst-Job-Market/blob/main/README.md):
+### [Prédiction du temps de réponse de la brigade des pompiers de londres](https://github.com/Pascal-20/London_Fire_Brigade_Python/blob/main/README.md):
 
-Analyze the job market for data analysts, focusing on industries with the highest employment, geographical distribution, and average salary in the United States.
-Utilize Kaggle data to perform data cleaning, processing, and create visualizations using Tableau to uncover key insights.
+Analyser et estimer le temps d'intervention de la brigade face aux sinistres dans la ville de Londres avec des données allant de 2016 à 2023. Preparer, visualiser et entrainer un modèle de Machine Learning pour nos predictions.
 
-### [PwC Switzerland Power BI Virtual Case Internship](https://github.com/azdinebahloul/Power-Bi-PwC-Virtual-Case-Experience/blob/main/README.md):
+### [Call Center Power BI d'une Entreprise Anonymisée](https://github.com/Pascal-20/Call_Center_PowerBI/blob/main/README.md):
 
-Leverage the power of Microsoft Power BI to develop a comprehensive dashboard that provides insightful visualizations and supports informed decision-making.
-Gain hands-on experience in data connection, transformation, and designing interactive visualizations using Power BI for effective data analysis.
+utiliser la puissance de Microsoft Power BI pour l'analyse et la visualisation des données. Notre objectif est de créer un tableau de bord complet qui fournit des informations précieuses sur les performances des employés du centre d'appel et facilite les prises de décision futures..
 
 
-## Tools used 
+## Outils Utilisés 
 
   ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
 
@@ -38,14 +36,12 @@ Gain hands-on experience in data connection, transformation, and designing inter
 
   [![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi&logoColor=white&style=flat-square)](https://powerbi.microsoft.com/)
 
-  ![Tableau](https://img.shields.io/badge/-Tableau-blue?logo=tableau&logoColor=white&style=flat-square)
-
   ![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoftexcel&logoColor=white&style=flat-square)
 
 ## Conclusion
 
-Building my portfolio using HTML and JavaScript has not only provided me with an opportunity to showcase my projects but has also allowed me to expand my skill set and demonstrate my ability to work with web technologies. I am excited to share my work and accomplishments with others in the field of data analysis.
+La création de mon portfolio en utilisant HTML et JavaScript m'a non seulement offert l'opportunité de présenter mes projets, mais m'a aussi permis d'élargir mes compétences et de démontrer ma capacité à travailler avec des technologies web. Je suis enthousiaste à l'idée de partager mon travail et mes réalisations avec d'autres dans le domaine de l'analyse de données.
 
-Feel free to explore the different projects included in my portfolio, and please don't hesitate to reach out if you have any inquiries or would like to collaborate. Thank you for visiting!
+N'hésitez pas à explorer les différents projets inclus dans mon portfolio, et à me contacter si vous avez des questions ou souhaitez collaborer. Merci de votre visite !
 
  
